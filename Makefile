@@ -1,5 +1,5 @@
 MODE = machine
-VLEN = 256
+VLEN = 128
 XLEN = 64
 SPLIT = 10000
 INTEGER = 0
